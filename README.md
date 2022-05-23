@@ -1,0 +1,2 @@
+# galink
+A golang framework
